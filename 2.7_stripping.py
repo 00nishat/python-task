@@ -1,0 +1,6 @@
+print("\n nishat \n tasnim")
+print("\t nishat tasnim")
+new_name= ("   nishat tasnim   ")
+print(new_name.lstrip())
+print (new_name.rstrip())
+print (new_name.strip())
