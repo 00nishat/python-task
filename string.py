@@ -1,0 +1,5 @@
+name=("nishat")
+print(f"hello {name} , how are you ?")
+print(f"hello {name.title()} , how are you ?")
+print(f"hello {name.upper()} , how are you ?")
+print(f"hello {name.lower()} , how are you ?")
